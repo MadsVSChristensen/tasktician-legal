@@ -1,6 +1,6 @@
 # work-task-manager-legal
 
-Public hosting for the **Taskonaut** iOS app's privacy and support pages, served
+Public hosting for the **Tasktician** iOS app's privacy and support pages, served
 via GitHub Pages. This repo intentionally contains **no app source** — that lives
 in a separate repository (`work-task-manager`).
 
